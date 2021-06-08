@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SpaceTech/static/css/main.3f0d0bff.chunk.css",
+    "main.js": "/SpaceTech/static/js/main.f69db8d9.chunk.js",
+    "main.js.map": "/SpaceTech/static/js/main.f69db8d9.chunk.js.map",
+    "runtime-main.js": "/SpaceTech/static/js/runtime-main.c7c37d08.js",
+    "runtime-main.js.map": "/SpaceTech/static/js/runtime-main.c7c37d08.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/SpaceTech/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2335c697.chunk.js": "/SpaceTech/static/js/2.2335c697.chunk.js",
+    "static/js/2.2335c697.chunk.js.map": "/SpaceTech/static/js/2.2335c697.chunk.js.map",
+    "index.html": "/SpaceTech/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/SpaceTech/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.3f0d0bff.chunk.css.map": "/SpaceTech/static/css/main.3f0d0bff.chunk.css.map",
+    "static/js/2.2335c697.chunk.js.LICENSE.txt": "/SpaceTech/static/js/2.2335c697.chunk.js.LICENSE.txt",
+    "static/media/Black.63b2e623.jpg": "/SpaceTech/static/media/Black.63b2e623.jpg",
+    "static/media/b.6e619917.jpg": "/SpaceTech/static/media/b.6e619917.jpg",
+    "static/media/c.2e8f9b65.jpeg": "/SpaceTech/static/media/c.2e8f9b65.jpeg",
+    "static/media/d.0876734f.jpg": "/SpaceTech/static/media/d.0876734f.jpg",
+    "static/media/e.6f6d3478.jpeg": "/SpaceTech/static/media/e.6f6d3478.jpeg",
+    "static/media/f.a01d6749.jpg": "/SpaceTech/static/media/f.a01d6749.jpg",
+    "static/media/j.88cd4a07.jpg": "/SpaceTech/static/media/j.88cd4a07.jpg",
+    "static/media/rocket.216745b9.jpg": "/SpaceTech/static/media/rocket.216745b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c37d08.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2335c697.chunk.js",
+    "static/css/main.3f0d0bff.chunk.css",
+    "static/js/main.f69db8d9.chunk.js"
+  ]
+}
